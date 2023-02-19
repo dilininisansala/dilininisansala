@@ -35,7 +35,7 @@
 <li><b>Device Farms:</b> LambdaTest, Sauce Labs, SmartBear Bitbar</li>
 <li><b>Documentation Tools:</b> Microsoft Office, Confluence</li>
 <li><b>Security Assessment Framework:</b> Mobile Security Framework (MobSF)</li>
-<li><b>Other Tools:</b> TestFlight, Firebase App Tester, App Center, GitHub, XMind</li>
+<li><b>Other Tools:</b> TestFlight, Firebase App Tester, App Center, GitHub, XMind, VirtualBox</li>
 </ul>
 
 <h3 align="left">Examples of my work:</h3>
