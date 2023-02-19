@@ -35,5 +35,15 @@
 <li><b>Device Farms:</b> LambdaTest, Sauce Labs, SmartBear Bitbar</li>
 <li><b>Documentation Tools:</b> Microsoft Office, Confluence</li>
 <li><b>Security Assessment Framework:</b> Mobile Security Framework (MobSF)</li>
-<li><b>Other Tools:</b> TestFlight, Firebase App Tester, App Center, GitHub</li>
+<li><b>Other Tools:</b> TestFlight, Firebase App Tester, App Center, GitHub, XMind</li>
 </ul>
+
+<h3 align="left">Examples of my work:</h3>
+<h4 align="left">Test cases writing:</h4>
+<li>JPetStore was used to create demo test cases.Check the Google Sheets document here.</li>
+
+<h4 align="left">Bug reports and work in Jira:</h4>
+<li>Bug #1. Check the screenshot of the bug report in Jira.</li>
+<li>Bug #2. Check the screenshot of the bug report in Jira.</li>
+<li>An example of a project in Jira. Check the screenshot.</li>
+
