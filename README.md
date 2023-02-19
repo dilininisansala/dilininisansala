@@ -40,8 +40,8 @@
 
 <h3 align="left">Examples of my work:</h3>
 <h4 align="left">Test cases writing:</h4>
-<li>Verbatim Website was used to create test cases.<a href="https://imgur.com/LXRJ9oj">Check the screenshot from TestLink here</a></li>
-<li>JPetStore was used to create demo test cases.Check the Google Sheets document here</li>
+<li>Verbatim Website was used to create test cases.<a href="https://imgur.com/LXRJ9oj"> Check the screenshot from TestLink here</a></li>
+<li>JPetStore was used to create demo test cases. Check the Google Sheets document here</li>
 
 <h4 align="left">Bug reports and work in Jira:</h4>
 <li><a href="https://imgur.com/HfIPjP1">Bug #1. Check the screenshot of the bug report in Jira</a></li>
