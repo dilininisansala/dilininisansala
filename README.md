@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilini Nisansala</h1>
 <h3 align="center">Quality Assurance Engineer from Sri Lanka</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562.gif">
+<img align="right" alt="Coding" width="250" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat" alt="dilininisansala" /> </p>
 <h3 align="left">About Me:</h3>
