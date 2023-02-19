@@ -44,6 +44,6 @@
 
 <h4 align="left">Bug reports and work in Jira:</h4>
 <li><a href="https://imgur.com/HfIPjP1">Bug #1. Check the screenshot of the bug report in Jira</a></li>
-<li><a href="https://imgur.com/qfT3xxg">Bug #2. Check the screenshot of the bug report in Jira</a></li>
+<li><a href="https://imgur.com/VxjwVtF">Bug #2. Check the screenshot of the bug report in Jira</a></li>
 
 
