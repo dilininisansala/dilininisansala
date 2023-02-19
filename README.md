@@ -23,3 +23,17 @@
 <li>CI/CD</li>
 </ul>
 
+<h3 align="left">Technical Skills:</h3>
+<ul>
+<li><b>Architectures:</b> Web Based and Mobile Applications</li>
+<li><b>Defect Management Tools:</b> JIRA, Trello, Asana, ClickUp</li>
+<li><b>Operation Systems:</b> Windows, iOS, Android, Ubuntu, Parrot</li>
+<li><b>API Testing Tool:</b> Postman</li>
+<li><b>CI/CD Pipeline:</b> AWS CodePipeline</li>
+<li><b>Version Control Tool:</b> GIT</li>
+<li><b>Cross Browser Testing Tools:</b> BrowserStack</li>
+<li><b>Device Farms:</b> LambdaTest, Sauce Labs, SmartBear Bitbar</li>
+<li><b>Documentation Tools:</b> Microsoft Office, Confluence</li>
+<li><b>Security Assessment Framework:</b> Mobile Security Framework (MobSF)</li>
+<li><b>Other Tools:</b> TestFlight, Firebase App Tester, App Center, GitHub</li>
+</ul>
