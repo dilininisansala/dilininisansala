@@ -50,4 +50,4 @@
 <li><a href="https://imgur.com/VxjwVtF">Bug #2. Check the screenshot of the bug report in Jira</a></li>
 
 <h4 align="left">QA Artifacts and User Manuals:</h4>
-<li><a href="https://drive.google.com/drive/u/1/folders/10FpVdwOvCpykprNJidr76jLZYhppLxtM">Meetao User Guide</a></li>
+<li><a href="https://drive.google.com/file/d/19yZoBXQ5OLWvnMS5-thCMI9wXc9vL-wB/view?usp=share_link">Meetao User Guide</a></li>
