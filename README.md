@@ -43,7 +43,7 @@
 <li>JPetStore was used to create demo test cases.Check the Google Sheets document here.</li>
 
 <h4 align="left">Bug reports and work in Jira:</h4>
-<li><a href="https://drive.google.com/drive/folders/1VwVpc3dHU6b-Xv2mpGUegyZtcwYFttxT">Bug #1. Check the screenshot of the bug report in Jira</a></li>
-<li><a href="https://drive.google.com/drive/folders/1VwVpc3dHU6b-Xv2mpGUegyZtcwYFttxT">Bug #2. Check the screenshot of the bug report in Jira</a></li>
+<li><a href="https://imgur.com/fXyG5Ph">Bug #1. Check the screenshot of the bug report in Jira</a></li>
+<li><a href="https://imgur.com/IKVAOII">Bug #2. Check the screenshot of the bug report in Jira</a></li>
 
 
