@@ -50,5 +50,5 @@
 <li><a href="https://imgur.com/VxjwVtF">Bug #2. Check the screenshot of the bug report in Jira</a></li>
 
 <h4 align="left">QA Artifacts and User Manuals:</h4>
-<li><a href="https://drive.google.com/file/d/1D0Hkgo3IdQpfrWRIkEfNStEMt8kK01mQ/view?usp=share_link">ABC Mobile App Test Plan</a></li>
+<li><a href="https://drive.google.com/file/d/1D0Hkgo3IdQpfrWRIkEfNStEMt8kK01mQ/view?usp=share_link">Sample Test Plan</a></li>
 <li><a href="https://drive.google.com/file/d/19yZoBXQ5OLWvnMS5-thCMI9wXc9vL-wB/view?usp=share_link">Meetao User Guide</a></li>
