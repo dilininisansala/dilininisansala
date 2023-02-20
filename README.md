@@ -54,8 +54,8 @@
 <li>Verbatim Website was used to create test cases.<a href="https://drive.google.com/file/d/1v_70MyTpqhywAtKoZzRmHbpZ0yB9eDWo/view?usp=share_link"> Check the screenshot from TestLink here</a></li>
 
 <h4 align="left">Bug reports and work in Jira:</h4>
-<li><a href="https://imgur.com/HfIPjP1">Bug #1. Check the screenshot of the bug report in Jira</a></li>
-<li><a href="https://imgur.com/VxjwVtF">Bug #2. Check the screenshot of the bug report in Jira</a></li>
+<li><a href="https://drive.google.com/file/d/1LRb66Gx3RTR_wx8mWBB27-9PkQtJJN13/view?usp=share_link">Bug #1. Check the screenshot of the bug report in Jira</a></li>
+<li><a href="https://drive.google.com/file/d/1QCs0Uifnx9pyOHFlTm8JqXgtVQX5WPUT/view?usp=share_link">Bug #2. Check the screenshot of the bug report in Jira</a></li>
 
 <h4 align="left">QA Artifacts and User Manuals:</h4>
 <li><a href="https://drive.google.com/file/d/1D0Hkgo3IdQpfrWRIkEfNStEMt8kK01mQ/view?usp=share_link">Sample Test Plan</a></li>
