@@ -52,7 +52,7 @@
 <li>Verbatim Website was used to create test cases.<a href="https://docs.google.com/spreadsheets/d/1YumHLafIHEAcXPCvran8QyOGCXueWHfb/edit#gid=658168019"> Check the Google Sheets document here</a></li>
 <li>Meetao Mobile Application was used to create test cases.<a href="https://docs.google.com/spreadsheets/d/1Ze4a64eKFmpKj0ydI7bfQsQpQA4vwSn5/edit#gid=1495511660"> Check the Google Sheets document here</a></li>
 <li>Verbatim Website was used to create test cases.<a href="https://imgur.com/LXRJ9oj"> Check the screenshot from TestLink here</a></li>
-
+<li>Verbatim Website was used to create test cases.<a href="https://drive.google.com/file/d/1v_70MyTpqhywAtKoZzRmHbpZ0yB9eDWo/view?usp=share_link"> Check the screenshot from TestLink here</a></li>
 
 <h4 align="left">Bug reports and work in Jira:</h4>
 <li><a href="https://imgur.com/HfIPjP1">Bug #1. Check the screenshot of the bug report in Jira</a></li>
