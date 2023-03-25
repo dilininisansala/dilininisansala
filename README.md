@@ -40,7 +40,7 @@
 <li><b>Defect Management Tools:</b> JIRA, Trello, Asana, ClickUp</li>
 <li><b>Test Management Tools:</b> TestLink, Azure DevOps Test Plans</li>
 <li><b>Database Management Tools:</b> pgAdmin 4, MySQL Workbench</li>
-<li><b>API Testing Tool:</b> Postman</li>
+<li><b>API Testing Tool:</b> Postman, Insomnia</li>
 <li><b>CI/CD Pipeline:</b> AWS CodePipeline</li>
 <li><b>Version Control Tool:</b> GIT</li>
 <li><b>Cross Browser Testing Tools:</b> BrowserStack</li>
