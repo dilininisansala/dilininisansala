@@ -56,6 +56,9 @@
 <li>Meetao Mobile Application was used to create test cases.<a href="https://docs.google.com/spreadsheets/d/1Ze4a64eKFmpKj0ydI7bfQsQpQA4vwSn5/edit#gid=1495511660"> Check the Google Sheets document here</a></li>
 <li>Verbatim Website was used to create test cases.<a href="https://drive.google.com/file/d/1v_70MyTpqhywAtKoZzRmHbpZ0yB9eDWo/view?usp=share_link"> Check the screenshot from TestLink here</a></li>
 
+<h4 align="left">Test Management: Using Azure DevOps Test Plans</h4>
+<li><a href="https://drive.google.com/file/d/1pGljZ72l4VYlPsaRwsjsRFWE4qv9jxCA/view?usp=sharing">Bug #1. Check the screenshot of the bug report in Jira</a></li>
+
 <h4 align="left">Bug reports and work in Jira:</h4>
 <li><a href="https://drive.google.com/file/d/1LRb66Gx3RTR_wx8mWBB27-9PkQtJJN13/view?usp=share_link">Bug #1. Check the screenshot of the bug report in Jira</a></li>
 <li><a href="https://drive.google.com/file/d/1QCs0Uifnx9pyOHFlTm8JqXgtVQX5WPUT/view?usp=share_link">Bug #2. Check the screenshot of the bug report in Jira</a></li>
