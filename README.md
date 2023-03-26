@@ -56,7 +56,7 @@
 <li>Meetao Mobile Application was used to create test cases.<a href="https://docs.google.com/spreadsheets/d/1Ze4a64eKFmpKj0ydI7bfQsQpQA4vwSn5/edit#gid=1495511660"> Check the Google Sheets document here</a></li>
 <li>Verbatim Website was used to create test cases.<a href="https://drive.google.com/file/d/1v_70MyTpqhywAtKoZzRmHbpZ0yB9eDWo/view?usp=share_link"> Check the screenshot from TestLink here</a></li>
 
-<h4 align="left">Test Management Using Azure DevOps Test Plans</h4>
+<h4 align="left">Test Management using Azure DevOps Test Plans</h4>
 <li><a href="https://drive.google.com/file/d/1pGljZ72l4VYlPsaRwsjsRFWE4qv9jxCA/view?usp=sharing">Check the screen recording for Demoblaze Website</a></li>
 
 <h4 align="left">Bug reports and work in Jira:</h4>
@@ -70,5 +70,5 @@
 <li><a href="https://drive.google.com/file/d/1AzinUId6vCz7v7pW9_BeEPXMVREA2bpD/view?usp=share_link">Test Incident Report</a></li>
 
 <h4 align="left">Other Skills:</h4>
-<h5 align="left">Working on Linux based environment and basic understanding of Linux commands:</h5>
+<h4 align="left">Working on Linux based environment and basic understanding of Linux commands:</h4>
 <li><a href="https://drive.google.com/file/d/1PMVybW4COHZKuNt0xwIyQqiI5K7tEvBQ/view?usp=sharing">Ubuntu</a></li>
