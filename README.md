@@ -59,7 +59,7 @@
 <h4 align="left">Test Management using Azure DevOps Test Plans</h4>
 <li><a href="https://drive.google.com/file/d/1pGljZ72l4VYlPsaRwsjsRFWE4qv9jxCA/view?usp=sharing">Check the screen recording for Demoblaze Website</a></li>
 
-<h4 align="left">Bug reports and work in Jira</h4>
+<h4 align="left">Bug reporting using JIRA</h4>
 <li><a href="https://drive.google.com/file/d/1LRb66Gx3RTR_wx8mWBB27-9PkQtJJN13/view?usp=share_link">Bug #1. Check the screenshot of the bug report in Jira</a></li>
 <li><a href="https://drive.google.com/file/d/1QCs0Uifnx9pyOHFlTm8JqXgtVQX5WPUT/view?usp=share_link">Bug #2. Check the screenshot of the bug report in Jira</a></li>
 
