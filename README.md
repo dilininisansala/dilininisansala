@@ -68,3 +68,7 @@
 <li><a href="https://drive.google.com/file/d/19yZoBXQ5OLWvnMS5-thCMI9wXc9vL-wB/view?usp=share_link">Meetao User Guide</a></li>
 <li><a href="https://drive.google.com/file/d/1vg_gPZs-yLOLpPuPEwHHmgwB877e3izx/view?usp=share_link">Sample Security Assessment Report</a></li>
 <li><a href="https://drive.google.com/file/d/1AzinUId6vCz7v7pW9_BeEPXMVREA2bpD/view?usp=share_link">Test Incident Report</a></li>
+
+<h4 align="left">Other Skills:</h4>
+<h5 align="left">Working on Linux based environment and basic understanding of Linux commands:</h5>
+<li><a href="">Ubuntu</a></li>
