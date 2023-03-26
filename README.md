@@ -70,5 +70,4 @@
 <li><a href="https://drive.google.com/file/d/1AzinUId6vCz7v7pW9_BeEPXMVREA2bpD/view?usp=share_link">Test Incident Report</a></li>
 
 <h4 align="left">Other Skills:</h4>
-<h4 align="left">Basic understanding of Linux commands</h4>
-<li><a href="https://drive.google.com/file/d/1PMVybW4COHZKuNt0xwIyQqiI5K7tEvBQ/view?usp=sharing">Ubuntu</a></li>
+<li><a href="https://drive.google.com/file/d/1PMVybW4COHZKuNt0xwIyQqiI5K7tEvBQ/view?usp=sharing">Check the screen recording for basic understanding of Linux commands using Ubuntu</a></li>
