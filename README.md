@@ -25,13 +25,11 @@
 <li>Compatibility Testing</li>
 <li>Localization Testing</li>
 <li>Database Testing</li>
-<li>Performance Testing</li>
 <li>UAT Testing</li>
 <li>API Testing</li>
 <li>QA Artifacts</li>
 <li>Documentation Skills</li>
 <li>Agile Methodologies</li>
-<li>CI/CD</li>
 </ul>
 
 <h3 align="left">Technical Skills:</h3>
