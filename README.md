@@ -3,7 +3,7 @@
 <h3 align="center">Senior Quality Assurance Engineer from Sri Lanka</h3>
 
 <h3 align="left">About Me:</h3>
-<p align="justify">Senior QA Engineer with 5+ years of experience in an Agile development environment for Web based and Mobile application testing. I have worked on nearly 15 projects and those are ranging from small-scale to medium-scale projects. And also hands-on experience in the test life cycle, testing techniques and enjoy working with dynamic teams with challenging projects. Skilled in bug tracking, test case writing, documentation handling, Regression testing, Functional testing and Compatibility testing and so on.</p>
+<p align="justify">ISTQB certified Senior QA Engineer with 5+ years experience in Web application and Mobile Application testing with experience in QA methodologies, tools, processes and solid understanding on Agile software Testing. I am passionate about continuous learning and improvement, and I seek to apply the best practices and methodologies in software quality engineering and agile development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat" alt="dilininisansala" /> </p>
 
