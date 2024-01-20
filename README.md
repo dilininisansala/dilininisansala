@@ -30,6 +30,7 @@
 <li>QA Artifacts</li>
 <li>Documentation Skills</li>
 <li>Agile Methodologies</li>
+<li>CI/CD</li>
 </ul>
 
 <h3 align="left">Technical Skills:</h3>
@@ -46,6 +47,7 @@
 <li><b>Device Farms:</b> LambdaTest, Sauce Labs, SmartBear Bitbar</li>
 <li><b>Documentation Tools:</b> Microsoft Office, Confluence</li>
 <li><b>Security Assessment Framework:</b> Mobile Security Framework (MobSF)</li>
+<li><b>CI/CD tools:</b> Jenkins</li>  
 <li><b>Other Tools:</b> TestFlight, Firebase App Tester, App Center, GitHub, XMind, VirtualBox</li>
 </ul>
 
