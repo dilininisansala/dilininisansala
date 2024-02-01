@@ -46,7 +46,7 @@
 <li><b>Performance Testing Tool:</b> JMeter</li> 
 <li><b>Version Control Tool:</b> GIT</li>
 <li><b>Cross Browser Testing Tool:</b> BrowserStack</li>
-<li><b>Device Farms:</b> LambdaTest, Sauce Labs, SmartBear Bitbar</li>
+<li><b>Device Farms:</b> LambdaTest</li>
 <li><b>Documentation Tools:</b> Microsoft Office, Confluence</li>
 <li><b>Security Assessment Framework:</b> Mobile Security Framework (MobSF)</li>
 <li><b>CI/CD tools:</b> Jenkins</li>  
