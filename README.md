@@ -36,7 +36,7 @@
 <h3 align="left">Technical Skills:</h3>
 <ul>
 <li><b>Architectures:</b> Web Based and Mobile Applications</li>
-<li><b>Operation Systems:</b> Windows, iOS, Android, Ubuntu, Parrot</li> 
+<li><b>Operating Systems:</b> Windows, iOS, Android, Ubuntu, Parrot</li> 
 <li><b>Defect Management Tools:</b> JIRA, Trello, Asana, ClickUp</li>
 <li><b>Test Management Tools:</b> TestLink, Azure DevOps Test Plans</li>
 <li><b>SQL Databases:</b> MySQL, PostgreSQL</li>
