@@ -35,8 +35,8 @@
 <ul>
 <li><b>Architectures:</b> Web Based and Mobile Applications</li>
 <li><b>Operating Systems:</b> Windows, iOS, Android</li> 
-<li><b>Defect Management Tools:</b> JIRA, Trello, Asana, ClickUp</li>
-<li><b>Test Management Tools:</b> TestLink, Azure DevOps Test Plans</li>
+<li><b>Defect Management Tools:</b> JIRA, Asana, ClickUp</li>
+<li><b>Test Management Tools:</b> TestRail, TestLink, Azure DevOps Test Plans</li>
 <li><b>SQL Databases:</b> MySQL</li>
 <li><b>NoSQL Databases:</b> MongoDB</li>
 <li><b>API Testing Tools:</b> Postman</li>
@@ -45,7 +45,7 @@
 <li><b>Device Farms:</b> LambdaTest</li>
 <li><b>Documentation Tools:</b> Microsoft Office, Confluence</li>
 <li><b>CI/CD tools:</b> Jenkins</li>  
-<li><b>Other Tools:</b> TestFlight, Firebase App Tester, App Center, GitHub, XMind</li>
+<li><b>Other Tools:</b> TestFlight, Firebase App Tester, Chrome DevTools, GitHub, XMind</li>
 </ul>
 
 <h3 align="left">Examples of My Works:</h3>
