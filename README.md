@@ -24,11 +24,9 @@
 <li>Regression Testing</li>
 <li>Compatibility Testing</li>
 <li>Localization Testing</li>
-<li>Database Testing</li>
 <li>UAT Testing</li>
 <li>API Testing</li>
 <li>QA Artifacts</li>
-<li>Documentation Skills</li>
 <li>Agile Methodologies</li>
 <li>CI/CD</li>
 </ul>
@@ -36,21 +34,19 @@
 <h3 align="left">Technical Skills:</h3>
 <ul>
 <li><b>Architectures:</b> Web Based and Mobile Applications</li>
-<li><b>Operating Systems:</b> Windows, iOS, Android, Ubuntu, Parrot</li> 
+<li><b>Operating Systems:</b> Windows, iOS, Android</li> 
 <li><b>Defect Management Tools:</b> JIRA, Trello, Asana, ClickUp</li>
 <li><b>Test Management Tools:</b> TestLink, Azure DevOps Test Plans</li>
-<li><b>SQL Databases:</b> MySQL, PostgreSQL</li>
+<li><b>SQL Databases:</b> MySQL</li>
 <li><b>NoSQL Databases:</b> MongoDB</li>
-<li><b>Database Management Tools:</b> pgAdmin 4, MySQL Workbench, MongoDB Compass</li>
 <li><b>API Testing Tools:</b> Postman</li>
-<li><b>Performance Testing Tool:</b> JMeter</li> 
 <li><b>Version Control Tool:</b> GIT</li>
 <li><b>Cross Browser Testing Tool:</b> BrowserStack</li>
 <li><b>Device Farms:</b> LambdaTest</li>
 <li><b>Documentation Tools:</b> Microsoft Office, Confluence</li>
 <li><b>Security Assessment Framework:</b> Mobile Security Framework (MobSF)</li>
 <li><b>CI/CD tools:</b> Jenkins</li>  
-<li><b>Other Tools:</b> TestFlight, Firebase App Tester, App Center, GitHub, XMind, VirtualBox</li>
+<li><b>Other Tools:</b> TestFlight, Firebase App Tester, App Center, GitHub, XMind</li>
 </ul>
 
 <h3 align="left">Examples of My Works:</h3>
