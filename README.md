@@ -45,6 +45,7 @@
 <li><b>Device Farms:</b> LambdaTest</li>
 <li><b>Documentation Tools:</b> Microsoft Office, Confluence</li>
 <li><b>CI/CD tools:</b> Jenkins</li>  
+<li><b>Containerization platform:</b> Docker</li> 
 <li><b>Other Tools:</b> TestFlight, Firebase App Tester, Chrome DevTools, GitHub, XMind</li>
 </ul>
 
