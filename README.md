@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dilini-nisansala-maha-durage-0021a2195/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="30" width="30"/></a>
+<a href="https://www.linkedin.com/in/dilini-nisansala-0021a2195/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="30" width="30"/></a>
 </p>
 
 <h3 align="left">Skills:</h3>
