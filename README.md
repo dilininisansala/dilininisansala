@@ -26,16 +26,14 @@
 <li>Localization Testing</li>
 <li>UAT Testing</li>
 <li>API Testing</li>
-<li>QA Artifacts</li>
 <li>Agile Methodologies</li>
-<li>CI/CD</li>
 </ul>
 
 <h3 align="left">Technical Skills:</h3>
 <ul>
 <li><b>Architectures:</b> Web Based and Mobile Applications</li>
 <li><b>Operating Systems:</b> Windows, iOS, Android</li> 
-<li><b>Defect Management Tools:</b> JIRA, Trello, ClickUp</li>
+<li><b>Defect Management Tools:</b> JIRA, ClickUp</li>
 <li><b>Test Management Tools:</b> TestRail, TestLink, Azure DevOps Test Plans</li>
 <li><b>SQL Databases:</b> MySQL</li>
 <li><b>NoSQL Databases:</b> MongoDB</li>
