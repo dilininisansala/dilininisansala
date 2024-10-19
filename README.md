@@ -27,10 +27,10 @@
 <h3 align="left">Technical Skills:</h3>
 <ul>
 <li><b>API Testing:</b> Postman</li>
-<li><b>Performance testing:</b> Apache JMeter</li>
-<li><b>Monitoring tools:</b> Grafana</li>
-<li><b>CI/CD tools:</b> Jenkins</li>  
-<li><b>Containerization platform:</b> Docker</li> 
+<li><b>Performance Testing:</b> Apache JMeter</li>
+<li><b>Monitoring Tools:</b> Grafana</li>
+<li><b>CI/CD Tools:</b> Jenkins</li>  
+<li><b>Containerization Platform:</b> Docker</li> 
 <li><b>Operating Systems:</b> Windows, iOS, Android</li> 
 <li><b>Defect Management Tools:</b> JIRA, ClickUp</li>
 <li><b>Test Management Tools:</b> TestRail, TestLink</li>
