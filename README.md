@@ -21,25 +21,25 @@
 <li>Test Execution</li>
 <li>Bug Tracking & Reporting</li>  
 <li>QA Testing (Functional, Regression, Sanity, Compatibility, UAT, Localization)</li>
-<li>API Testing</li>
 <li>Agile Methodologies</li>
 </ul>
 
 <h3 align="left">Technical Skills:</h3>
 <ul>
-<li><b>Architectures:</b> Web Based and Mobile Applications</li>
+<li><b>API Testing:</b> Postman</li>
+<li><b>Performance testing:</b> Apache JMeter</li>
+<li><b>Monitoring tools:</b> Grafana</li>
+<li><b>CI/CD tools:</b> Jenkins</li>  
+<li><b>Containerization platform:</b> Docker</li> 
 <li><b>Operating Systems:</b> Windows, iOS, Android</li> 
 <li><b>Defect Management Tools:</b> JIRA, ClickUp</li>
-<li><b>Test Management Tools:</b> TestRail, TestLink, Azure DevOps Test Plans</li>
+<li><b>Test Management Tools:</b> TestRail, TestLink</li>
 <li><b>SQL Databases:</b> MySQL</li>
 <li><b>NoSQL Databases:</b> MongoDB</li>
-<li><b>API Testing Tools:</b> Postman</li>
 <li><b>Version Control Tool:</b> GIT, GitHub </li>
 <li><b>Cross Browser Testing Tool:</b> BrowserStack</li>
 <li><b>Device Farms:</b> LambdaTest</li>
-<li><b>Documentation Tools:</b> Microsoft Office, Confluence</li>
-<li><b>CI/CD tools:</b> Jenkins</li>  
-<li><b>Containerization platform:</b> Docker</li> 
+<li><b>Documentation Tools:</b> Microsoft Office, Google Docs, Confluence</li>
 <li><b>Other Tools:</b> TestFlight, Firebase App Tester, Chrome DevTools, XMind</li>
 </ul>
 
