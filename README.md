@@ -19,12 +19,8 @@
 <li>Manual Testing (Web & Mobile)</li>
 <li>Test Case Writing</li>
 <li>Test Execution</li>
-<li>Bug Tracking & Reporting</li>
-<li>Functional Testing</li>
-<li>Regression Testing</li>
-<li>Compatibility Testing</li>
-<li>Localization Testing</li>
-<li>UAT Testing</li>
+<li>Bug Tracking & Reporting</li>  
+<li>QA Testing (Functional, Regression, Sanity, Compatibility, UAT, Localization)</li>
 <li>API Testing</li>
 <li>Agile Methodologies</li>
 </ul>
@@ -38,13 +34,13 @@
 <li><b>SQL Databases:</b> MySQL</li>
 <li><b>NoSQL Databases:</b> MongoDB</li>
 <li><b>API Testing Tools:</b> Postman</li>
-<li><b>Version Control Tool:</b> GIT</li>
+<li><b>Version Control Tool:</b> GIT, GitHub </li>
 <li><b>Cross Browser Testing Tool:</b> BrowserStack</li>
 <li><b>Device Farms:</b> LambdaTest</li>
 <li><b>Documentation Tools:</b> Microsoft Office, Confluence</li>
 <li><b>CI/CD tools:</b> Jenkins</li>  
 <li><b>Containerization platform:</b> Docker</li> 
-<li><b>Other Tools:</b> TestFlight, Firebase App Tester, Chrome DevTools, GitHub, XMind</li>
+<li><b>Other Tools:</b> TestFlight, Firebase App Tester, Chrome DevTools, XMind</li>
 </ul>
 
 <h3 align="left">Examples of My Works:</h3>
