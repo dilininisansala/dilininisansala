@@ -40,7 +40,6 @@
 <li><b>Cross Browser Testing Tool:</b> BrowserStack</li>
 <li><b>Device Farms:</b> LambdaTest</li>
 <li><b>Documentation Tools:</b> Microsoft Office, Google Docs, Confluence</li>
-<li><b>Other Tools:</b> TestFlight, Firebase App Tester, Chrome DevTools, XMind</li>
 </ul>
 
 <h3 align="left">Examples of My Works:</h3>
