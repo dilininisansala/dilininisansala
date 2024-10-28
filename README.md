@@ -29,6 +29,7 @@
 <li><b>API Testing:</b> Postman</li>
 <li><b>Performance Testing:</b> Apache JMeter</li>
 <li><b>Monitoring Tools:</b> Grafana</li>
+<li><b>Cloud Platforms & Tools:</b> Azure DevOps</li>    
 <li><b>CI/CD Tools:</b> Jenkins</li>  
 <li><b>Containerization Platform:</b> Docker</li> 
 <li><b>Operating Systems:</b> Windows, iOS, Android</li> 
