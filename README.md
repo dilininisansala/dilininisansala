@@ -1,6 +1,6 @@
 <img src="https://images.squarespace-cdn.com/content/v1/57d87c08579fb3439617028c/1632528801615-5R1ZC6KWGP1QNXYNH1BH/QA+Banner.png?format=2500w"> 
 <h1 align="center">Hi 👋, I'm Dilini Nisansala</h1>
-<h3 align="center">Senior Quality Assurance Engineer from Sri Lanka</h3>
+<h3 align="center">Quality Assurance Expert</h3>
 
 <h3 align="left">About Me:</h3>
 <p align="justify">ISTQB certified Senior QA Engineer with 6+ years experience in Web application and Mobile application testing with experience in QA methodologies, tools, processes and solid understanding on Agile software testing. I am passionate about continuous learning and improvement, and I seek to apply the best practices and methodologies in software quality engineering and agile development.</p>
