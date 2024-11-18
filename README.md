@@ -56,12 +56,6 @@
 <li><a href="https://drive.google.com/file/d/1LRb66Gx3RTR_wx8mWBB27-9PkQtJJN13/view?usp=share_link">Bug #1. Check the screenshot of the bug report in Jira</a></li>
 <li><a href="https://drive.google.com/file/d/1QCs0Uifnx9pyOHFlTm8JqXgtVQX5WPUT/view?usp=share_link">Bug #2. Check the screenshot of the bug report in Jira</a></li>
 
-<h4 align="left">QA Artifacts and User Manuals</h4>
-<li><a href="https://drive.google.com/file/d/1D0Hkgo3IdQpfrWRIkEfNStEMt8kK01mQ/view?usp=share_link">Sample Test Plan</a></li>
-<li><a href="https://drive.google.com/file/d/19yZoBXQ5OLWvnMS5-thCMI9wXc9vL-wB/view?usp=share_link">Meetao User Guide</a></li>
-<li><a href="https://drive.google.com/file/d/1vg_gPZs-yLOLpPuPEwHHmgwB877e3izx/view?usp=share_link">Sample Security Assessment Report</a></li>
-<li><a href="https://drive.google.com/file/d/1AzinUId6vCz7v7pW9_BeEPXMVREA2bpD/view?usp=share_link">Test Incident Report</a></li>
-
 <h4 align="left">Performance Testing using JMeter</h4>
 <li><a href="https://drive.google.com/file/d/1i_yEqmGF_9xLjN5DEtiDg57wxkH9Pgwx/view?usp=sharing">Check the screen recording for GUI Mode</a></li>
 <li><a href="https://drive.google.com/file/d/1zfmJX5zj2DweJjUtwvUuhfQuYVhIrGZS/view?usp=sharing">Check the screen recording for Non-GUI Mode</a></li>
