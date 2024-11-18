@@ -59,6 +59,3 @@
 <h4 align="left">Performance Testing using JMeter</h4>
 <li><a href="https://drive.google.com/file/d/1i_yEqmGF_9xLjN5DEtiDg57wxkH9Pgwx/view?usp=sharing">Check the screen recording for GUI Mode</a></li>
 <li><a href="https://drive.google.com/file/d/1zfmJX5zj2DweJjUtwvUuhfQuYVhIrGZS/view?usp=sharing">Check the screen recording for Non-GUI Mode</a></li>
-
-<h4 align="left">Other Skills</h4>
-<li><a href="https://drive.google.com/file/d/1PMVybW4COHZKuNt0xwIyQqiI5K7tEvBQ/view?usp=sharing">Check the screen recording for basic understanding of Linux commands using Ubuntu</a></li>
