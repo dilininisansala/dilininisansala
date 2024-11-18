@@ -47,7 +47,3 @@
 <h4 align="left">Test cases writing</h4>
 <li>Verbatim Website was used to create test cases.<a href="https://docs.google.com/spreadsheets/d/1YumHLafIHEAcXPCvran8QyOGCXueWHfb/edit#gid=658168019"> Check the Google Sheets document here</a></li>
 <li>Meetao Mobile Application was used to create test cases.<a href="https://docs.google.com/spreadsheets/d/1Ze4a64eKFmpKj0ydI7bfQsQpQA4vwSn5/edit#gid=1495511660"> Check the Google Sheets document here</a></li>
-
-<h4 align="left">Performance Testing using JMeter</h4>
-<li><a href="https://drive.google.com/file/d/1i_yEqmGF_9xLjN5DEtiDg57wxkH9Pgwx/view?usp=sharing">Check the screen recording for GUI Mode</a></li>
-<li><a href="https://drive.google.com/file/d/1zfmJX5zj2DweJjUtwvUuhfQuYVhIrGZS/view?usp=sharing">Check the screen recording for Non-GUI Mode</a></li>
