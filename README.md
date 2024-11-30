@@ -43,7 +43,7 @@
 <li><b>Documentation Tools:</b> Microsoft Office, Google Docs, Confluence</li>
 </ul>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat](https://github.com/dilininisansala/dilininisansala/blob/main/assertion-MUzmA8BxSqSXezGN6SqwYA.png)" alt="dilininisansala" /> </p>
+<p> <img src="[https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat](https://github.com/dilininisansala/dilininisansala/blob/main/assertion-MUzmA8BxSqSXezGN6SqwYA.png)"/></p>
 
 <h3 align="left">Examples of My Works:</h3>
 <h4 align="left">Test cases writing</h4>
