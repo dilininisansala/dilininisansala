@@ -43,7 +43,6 @@
 <li><b>Documentation Tools:</b> Microsoft Office, Google Docs, Confluence</li>
 </ul>
 
-![Postman API Fundamentals Student Expert](https://imgur.com/a/VJce1G5)
 
 <h3 align="left">Examples of My Works:</h3>
 <h4 align="left">Test cases writing</h4>
