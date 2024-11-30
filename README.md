@@ -45,7 +45,7 @@
 
 ## Certifications
 
-[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA/image)](https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA?identity__email=dilniz.nisansala1%40gmail.com)
+[[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA/image)](https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA?identity__email=dilniz.nisansala1%40gmail.com)](https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA?identity__email=dilniz.nisansala1%40gmail.com)
 
 **Awarded**: 30 Nov 2024
 
