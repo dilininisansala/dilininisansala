@@ -43,6 +43,9 @@
 <li><b>Documentation Tools:</b> Microsoft Office, Google Docs, Confluence</li>
 </ul>
 
+[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA/image)](https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA)
+
+**Awarded**: 30 Nov 2024  
 
 <h3 align="left">Examples of My Works:</h3>
 <h4 align="left">Test cases writing</h4>
