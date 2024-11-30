@@ -1,4 +1,3 @@
-
 <img src="1730722956954.jpg"> 
 <h1 align="center">Hi there! I'm Dilini👋</h1>
 <h3 align="center">Quality Assurance Expert</h3>
