@@ -43,7 +43,6 @@
 <li><b>Documentation Tools:</b> Microsoft Office, Google Docs, Confluence</li>
 </ul>
 
-<iframe src="https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=dilniz.nisansala1%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
 
 <h3 align="left">Examples of My Works:</h3>
 <h4 align="left">Test cases writing</h4>
