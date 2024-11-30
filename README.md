@@ -45,8 +45,7 @@
 
 <div align="left">
      <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman API Fundamentals Student Expert Badge" width="185px">
-   <p><strong>Awarded:</strong> 30 Nov 2024</p>
-   <a href="https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA">Verify Badge</a>
+   <p><strong>Awarded:</strong> 30 Nov 2024</p>   
 </div>
 
 <h3 align="left">Examples of My Works:</h3>
