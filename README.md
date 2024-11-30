@@ -44,7 +44,7 @@
 </ul>
 
 <div align="left">
-     <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman API Fundamentals Student Expert Badge" width="200px">
+     <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman API Fundamentals Student Expert Badge" width="185px">
   </a>
 </div>
 
