@@ -43,6 +43,8 @@
 <li><b>Documentation Tools:</b> Microsoft Office, Google Docs, Confluence</li>
 </ul>
 
+<p>https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA?identity__email=dilniz.nisansala1%40gmail.com</p>
+
 <h3 align="left">Examples of My Works:</h3>
 <h4 align="left">Test cases writing</h4>
 <li>Verbatim Website was used to create test cases.<a href="https://docs.google.com/spreadsheets/d/1YumHLafIHEAcXPCvran8QyOGCXueWHfb/edit#gid=658168019"> Check the Google Sheets document here</a></li>
