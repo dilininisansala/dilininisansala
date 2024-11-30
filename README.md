@@ -43,6 +43,14 @@
 <li><b>Documentation Tools:</b> Microsoft Office, Google Docs, Confluence</li>
 </ul>
 
+## Certifications
+
+[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA/image)](https://api.badgr.io/public/assertions/MUzmA8BxSqSXezGN6SqwYA?identity__email=dilniz.nisansala1%40gmail.com)
+
+**Awarded**: 30 Nov 2024
+
+[Verify Badge](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FMUzmA8BxSqSXezGN6SqwYA%3Fidentity__email%3Ddilniz.nisansala1%2540gmail.com&identity__email=dilniz.nisansala1%40gmail.com)
+
 
 <h3 align="left">Examples of My Works:</h3>
 <h4 align="left">Test cases writing</h4>
