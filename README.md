@@ -51,7 +51,7 @@
 </div>
 
 <div align="center">
-  <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman Badge" width="185px">
+  <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman Badge" width="185px" style="margin-right: 20px;">
   <img src="ISTQB.jpg" alt="ISTQB" width="185px">
 </div>
 
