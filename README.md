@@ -44,10 +44,9 @@
 </ul>
 
 <h3 align="left">Certifications:</h3>
-<div align="left">
-     <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman API Fundamentals Student Expert Badge" width="185px" style="margin-right: 20px;">
-   <p><strong>Awarded:</strong> 30 Nov 2024</p>   
-     <img src="ISTQB.jpg" alt="ISTQB" width="185px">
+<div align="center">
+  <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman Badge" width="185px" style="margin-right: 20px;">
+  <img src="ISTQB.jpg" alt="ISTQB" width="185px">
 </div>
 
 <h3 align="left">Examples of My Works:</h3>
