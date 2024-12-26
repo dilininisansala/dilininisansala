@@ -47,6 +47,7 @@
 <div align="left">
      <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman API Fundamentals Student Expert Badge" width="185px">
    <p><strong>Awarded:</strong> 30 Nov 2024</p>   
+     <img src="ISTQB.jpg" alt="ISTQB" width="185px">
 </div>
 
 
