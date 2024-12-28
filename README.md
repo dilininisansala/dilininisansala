@@ -45,8 +45,8 @@
 
 <h3 align="left">Certifications:</h3>
 <div align="left">
-  <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman API Fundamentals Student Expert Badge" width="185px" style="margin-right: 40px;">
-  <img src="ISTQB.jpg" alt="ISTQB" width="185px">
+  <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman API Fundamentals Student Expert Badge" width="150px" style="margin-right: 40px;">
+  <img src="ISTQB.jpg" alt="ISTQB" width="150px">
 </div>
 
 <h3 align="left">Examples of My Works:</h3>
