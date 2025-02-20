@@ -28,6 +28,7 @@
 <ul>
 <li><b>API Testing:</b> Postman</li>
 <li><b>Performance Testing:</b> Apache JMeter</li>
+<li><b>Security Testing:</b> OWASP ZAP</li>  
 <li><b>Monitoring Tools:</b> Grafana</li>
 <li><b>Cloud Platforms & Tools:</b> Azure DevOps</li>    
 <li><b>CI/CD Tools:</b> Jenkins, GitHub Actions</li>  
