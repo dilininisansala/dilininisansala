@@ -41,6 +41,7 @@
 <li><b>Version Control Tool:</b> GIT, GitHub </li>
 <li><b>Cross Browser Testing Tool:</b> BrowserStack</li>
 <li><b>Device Farms:</b> LambdaTest</li>
+<li><b>IDEs:</b> VS Code, Cursor AI, Trae IDE</li>
 <li><b>Documentation Tools:</b> Microsoft Office, Google Docs, Confluence</li>
 </ul>
 
