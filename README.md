@@ -11,14 +11,8 @@
 </p>
 
 <h3 align="left">⚡️Skills:</h3>
-<ul>
-<li>Manual Testing (Web & Mobile)</li>
-<li>Test Case Writing</li>
-<li>Test Execution</li>
-<li>Bug Tracking & Reporting</li>  
-<li>QA Testing (Functional, Regression, Sanity, Compatibility, UAT, Localization)</li>
-<li>Agile Methodologies</li>
-</ul>
+🚀Specialization: Manual, API, Performance, UI & Mobile Testing
+🚀Interests: Automation, AI & Web Testing
 
 
 <h3 align="left">⚡️Languages and Tools:</h3>
