@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h3 align="left"><img width="65" height="65" src="octocat-1752145155294.png" /> About Me: <img width="65" height="65" src="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966.gif" /></h3>
+<h3 align="left"><img width="75" height="75" src="octocat-1752145155294.png" /> About Me: <img width="65" height="65" src="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966.gif" /></h3>
 <p align="justify">ISTQB certified Senior QA Engineer with 6+ years experience in Web application and Mobile application testing with experience in QA methodologies, tools, processes and solid understanding on Agile software testing. I am passionate about continuous learning and improvement, and I seek to apply the best practices and methodologies in software quality engineering and agile development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat" alt="dilininisansala" /> </p>
