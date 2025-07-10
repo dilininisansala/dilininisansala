@@ -1,9 +1,10 @@
 <h1 align="center">Hi there! I'm Dilini 👋</h1>
 <h3 align="center">Quality Assurance Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat" alt="dilininisansala" /> </p>
+<h3 align="left">About Me:</h3>
+<p align="justify">ISTQB certified Senior QA Engineer with 6+ years experience in Web application and Mobile application testing with experience in QA methodologies, tools, processes and solid understanding on Agile software testing. I am passionate about continuous learning and improvement, and I seek to apply the best practices and methodologies in software quality engineering and agile development.</p>
 
-- 📫 How to reach me **dilniz.nisansala1@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat" alt="dilininisansala" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
