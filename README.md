@@ -3,16 +3,16 @@
 <h3 align="left"><img width="80" height="80" src="octocat-1752145155294.png" /> About Me: </h3>
 <p align="justify">ISTQB certified Senior QA Engineer with 6+ years experience in Web application and Mobile application testing with experience in QA methodologies, tools, processes and solid understanding on Agile software testing. I am passionate about continuous learning and improvement, and I seek to apply the best practices and methodologies in software quality engineering and agile development.</p>
 
+🚀Specialization: Manual, API, Performance, UI & Mobile Testing
+
+🚀Interests: Automation, AI & Web Testing
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat" alt="dilininisansala" /> </p>
 
 <h3 align="left">Connect With Me: <img width="65" height="65" src="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966.gif" /></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dilini-nisansala-seniorqa/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="30" width="30"/></a>
 </p>
-
-<h3 align="left">⚡️Skills:</h3>
-🚀Specialization: Manual, API, Performance, UI & Mobile Testing
-🚀Interests: Automation, AI & Web Testing
 
 
 <h3 align="left">⚡️Languages and Tools:</h3>
