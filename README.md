@@ -20,7 +20,7 @@
 <li>Agile Methodologies</li>
 </ul>
 
-🛠️<h3 align="left">Technical Skills:</h3>
+<h3 align="left">🛠️ Technical Skills:</h3>
 <ul>
 <li><b>API Testing:</b> Postman</li>
 <li><b>Performance Testing:</b> Apache JMeter</li>
