@@ -5,7 +5,7 @@
 
 🚀<b>Specialization:</b> Manual, API, Mobile & Cloud-Based Testing (AWS)
 
-🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, API & Microservices Testing, Performance Testing
+🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat" alt="dilininisansala" /> </p>
