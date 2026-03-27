@@ -3,9 +3,9 @@
 <h3 align="left">About Me: </h3>
 <p align="justify">ISTQB certified Senior QA Engineer with 6+ years experience in Web application and Mobile application testing with experience in QA methodologies, tools, processes and solid understanding on Agile software testing. I am passionate about continuous learning and improvement, and I seek to apply the best practices and methodologies in software quality engineering and agile development.</p>
 
-🚀<b>Specialization:</b> Manual, API, Performance, UI & Mobile Testing
+🚀<b>Specialization:</b> Manual, API, Mobile & Cloud-Based Testing (AWS)
 
-🚀<b>Interests:</b> Automation, & Cloud-Based Testing (AWS), AI & Web Testing
+🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, API & Microservices Testing, Performance Testing
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat" alt="dilininisansala" /> </p>
