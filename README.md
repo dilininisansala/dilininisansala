@@ -5,7 +5,7 @@
 
 🚀<b>Specialization:</b> Manual, API, Performance, UI & Mobile Testing
 
-🚀<b>Interests:</b> Automation, AI & Web Testing
+🚀<b>Interests:</b> Automation, & Cloud-Based Testing (AWS), AI & Web Testing
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat" alt="dilininisansala" /> </p>
