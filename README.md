@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <h3 align="left">About Me: </h3>
-<p align="justify">ISTQB certified Senior QA Engineer with 6+ years experience in Web application and Mobile application testing with experience in QA methodologies, tools, processes and solid understanding on Agile software testing. I am passionate about continuous learning and improvement, and I seek to apply the best practices and methodologies in software quality engineering and agile development.</p>
+<p align="justify">ISTQB-certified Senior QA Engineer with 7 years of experience in web and mobile application testing, specializing in delivering high-quality software through strong expertise in QA methodologies, tools, and Agile practices. Proven experience in Manual, API, UI, and Mobile with hands-on exposure to cloud-based application testing using AWS services such as S3, IAM, API Gateway, Lambda, and DynamoDB. I am passionate about continuous learning and improvement, and I seek to apply the best practices and methodologies in software quality engineering and agile development.</p>
 
 🚀<b>Specialization:</b> Manual, API, Mobile & Cloud-Based Testing (AWS)
 
