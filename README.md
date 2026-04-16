@@ -9,7 +9,7 @@
 
 <br>
 <h3 align="left"> 🔗Connect With Me: 
-  
+<br>  
 <p align="left">
 <a href="https://www.linkedin.com/in/dilini-nisansala-seniorqa/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="30" width="30"/></a>
 </p>
