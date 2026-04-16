@@ -43,3 +43,5 @@
   <img src="ISTQB.jpg" alt="ISTQB" width="150px" style="margin-right: 40px;">  
   <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman API Fundamentals Student Expert Badge" width="150px">
 </div>
+<br>
+<img src="connect banner.png" alt="last-banner" />
