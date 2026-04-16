@@ -26,6 +26,11 @@
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="git" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/></td>
+    <td><img src="images.jpeg" alt="cursor" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" alt="jenkins" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" alt="githubActions" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Dark.svg" alt="cypress" width="40" height="40"/></td>
