@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./banner.png)
 
 <h3 align="left">💫 About Me: </h3>
 <p align="justify">ISTQB-certified Senior QA Engineer with 7 years of experience in web and mobile application testing, specializing in delivering high-quality software through strong expertise in QA methodologies, tools, and Agile practices. Proven experience in Manual, API, UI, and Mobile with hands-on exposure to cloud-based application testing using AWS services such as S3, IAM, API Gateway, Lambda, and DynamoDB.</p>
