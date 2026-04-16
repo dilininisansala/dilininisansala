@@ -17,12 +17,7 @@
 <br>
 
 <p align="left">
-  <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/jira-auto.svg" alt="jira" width="40" height="40"/>
-  <img src="testrail.png" alt="testrail" width="40" height="40"/> 
-  <img src="confluence.png" alt="confluence" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/jira-auto.svg" alt="jira" width="40" height="40"/><img src="testrail.png" alt="testrail" width="40" height="40"/><img src="confluence.png" alt="confluence" width="40" height="40"/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 <h3 align="left"> Languages and Tools:</h3>
