@@ -15,7 +15,8 @@
 <a href="https://www.linkedin.com/in/dilini-nisansala-seniorqa/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="30" width="30"/></a>
 </p>
 <br>
-
+<h3 align="left">⚡ Tech Stack </h3>
+<br>
 <h3 align="left">Certifications: <img width="40" height="40" src="68747470733a2f2f6d656469.gif" /> </h3>
 <div align="left">
   <img src="ISTQB.jpg" alt="ISTQB" width="150px" style="margin-right: 40px;">  
