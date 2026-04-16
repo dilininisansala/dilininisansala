@@ -17,7 +17,7 @@
 <br>
 <h3 align="left">⚡ Tech Stack </h3>
 <br>
-<h3 align="left">Certifications: <img width="40" height="40" src="68747470733a2f2f6d656469.gif" /> </h3>
+<h3 align="left">🏆 Certifications: </h3>
 <div align="left">
   <img src="ISTQB.jpg" alt="ISTQB" width="150px" style="margin-right: 40px;">  
   <img src="assertion-MUzmA8BxSqSXezGN6SqwYA.png" alt="Postman API Fundamentals Student Expert Badge" width="150px">
