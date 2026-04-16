@@ -8,8 +8,6 @@
 🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilininisansala&label=Profile%20views&color=0e75b6&style=flat" alt="dilininisansala" /> </p>
-
 <h3 align="left"> Connect With Me: 
 <p align="left">
 <a href="https://www.linkedin.com/in/dilini-nisansala-seniorqa/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="30" width="30"/></a>
