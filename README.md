@@ -35,8 +35,8 @@
 </p>
 <table>
   <tr>
-    <td><img src="ICON1_URL" width="50"/></td>
-    <td><img src="ICON2_URL" width="50"/></td>
+    <td><img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/jira-auto.svg" alt="jira" width="40" height="40"/></td>
+    <td><img src="testrail.png" alt="testrail" width="40" height="40"/></td>
     <td><img src="ICON3_URL" width="50"/></td>
     <td><img src="ICON4_URL" width="50"/></td>
     <td><img src="ICON5_URL" width="50"/></td>
