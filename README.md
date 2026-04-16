@@ -26,15 +26,15 @@
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" alt="jenkins" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" alt="githubActions" width="40" height="40"/></td>    
-  </tr>
-  <tr>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Dark.svg" alt="cypress" width="40" height="40"/></td>
+  </tr>
+  <tr>    
     <td><img src="Browserstack.png" alt="jmeter" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="mySQL" width="40" height="40"/> </td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="mongoDB" width="40" height="40"/></td>
     <td><img src="Jmeter.png" alt="jmeter" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="docker" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="azure" width="40" height="40"/>/td>
+    <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="azure" width="40" height="40"/></td>
     <td><img src="owasp.jpg" alt="owasp" width="40" height="40"/></td>
     <td><img src="aws-logo.png" alt="aws" width="40" height="40"/></td>
   </tr>
