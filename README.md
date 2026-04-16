@@ -33,6 +33,22 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" alt="githubActions" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/>
 </p>
+<table>
+  <tr>
+    <td><img src="ICON1_URL" width="50"/></td>
+    <td><img src="ICON2_URL" width="50"/></td>
+    <td><img src="ICON3_URL" width="50"/></td>
+    <td><img src="ICON4_URL" width="50"/></td>
+    <td><img src="ICON5_URL" width="50"/></td>
+  </tr>
+  <tr>
+    <td><img src="ICON6_URL" width="50"/></td>
+    <td><img src="ICON7_URL" width="50"/></td>
+    <td><img src="ICON8_URL" width="50"/></td>
+    <td><img src="ICON9_URL" width="50"/></td>
+    <td><img src="ICON10_URL" width="50"/></td>
+  </tr>
+</table>
 <br>
 <h3 align="left">🏆 Certifications: </h3>
 <div align="left">
