@@ -6,10 +6,9 @@
 🚀<b>Specialization:</b> Manual, API, Mobile & Cloud-Based Testing (AWS)
 
 🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennasmithtest-cell&label=Profile%20views&color=0e75b6&style=flat" alt="jennasmithtest-cell" /> </p>
 
-<br>
 <h3 align="left"> 🔗Connect With Me: 
 <p align="left">
   
