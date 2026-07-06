@@ -2,6 +2,10 @@
 
 <h3 align="left">💫 About Me: </h3>
 <p align="justify">I'm a QA Engineer passionate about building high-quality software and exploring the future of AI-powered quality engineering.</p>
+🚀<b>Specialization:</b> Manual Testing, API Testing, Mobile & Cloud-Based Testing (AWS)
+
+🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing, Prompt Evaluation, Open Source
+<br>
 
 <h3 align="left">🚀 Currently Building </h3>
 <p align="justify">🏢 QA Launchpad</p>
@@ -13,10 +17,14 @@
 <p align="justify">While documenting my learning journey through GitHub, LinkedIn and YouTube.</p>
 <p align="justify">My mission is to help startups deliver reliable software while building practical resources for QA Engineers entering the AI era.</p>
 <br>
-🚀<b>Specialization:</b> Manual Testing, API Testing, Mobile & Cloud-Based Testing (AWS)
 
-🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing, Prompt Evaluation, Open Source
-<br>
+<h3 align="left">🌱 Currently Learning</h3>
+<p align="justify">AI Agent Systems</p>
+<p align="justify">Prompt Evaluation</p>
+<p align="justify">Response Evaluation</p>
+<p align="justify">LLM Testing</p>
+<p align="justify">Business Strategy</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennasmithtest-cell&label=Profile%20views&color=0e75b6&style=flat" alt="jennasmithtest-cell" /> </p>
 
 <h3 align="left"> 🔗Connect With Me: 
