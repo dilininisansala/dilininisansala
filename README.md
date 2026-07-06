@@ -2,7 +2,7 @@
 
 <h3 align="left">💫 About Me: </h3>
 <p align="justify">I'm a QA Engineer passionate about delivering high-quality software and exploring the future of AI-powered quality engineering.</p>
-<p align="justify">Currently building **QA Launchpad** and **Solo Founder AI OS** while sharing my learning journey through GitHub, LinkedIn, and YouTube. My goal is to create practical resources, real-world QA projects, and AI testing case studies that help engineers and startups build better software.</p>
+<p align="justify">Currently building <b>QA Launchpad</b> and <b>Solo Founder AI OS</b> while sharing my learning journey through GitHub, LinkedIn, and YouTube. My goal is to create practical resources, real-world QA projects, and AI testing case studies that help engineers and startups build better software.</p>
 
 🚀<b>Specialization:</b> Manual Testing, API Testing, Mobile & Cloud-Based Testing (AWS)
 
