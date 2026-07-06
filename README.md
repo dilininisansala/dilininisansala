@@ -2,7 +2,7 @@
 
 <h3 align="left">💫 About Me: </h3>
 <p align="justify">I'm a QA Engineer passionate about building high-quality software and exploring the future of AI-powered quality engineering. I document my learning journey through GitHub, LinkedIn, and YouTube while continuously expanding my skills in software testing, automation, and AI.</p>
-<p align="justify">My mission is to help startups deliver reliable software while building practical resources for QA Engineers entering the AI era.</p>
+<p align="justify">My goal is to build practical QA solutions and educational resources that help teams deliver reliable software and prepare QA Engineers for the AI era.</p>
 
 🚀<b>Specialization:</b> Manual Testing, API Testing, Mobile & Cloud-Based Testing (AWS)
 
