@@ -1,8 +1,8 @@
 ![Header](./banner.png)
 
 <h3 align="left">💫 About Me: </h3>
-<p align="justify">ISTQB-certified QA Engineer with 7 years of experience in web and mobile application testing, specializing in delivering high-quality software through strong expertise in QA methodologies, tools, and Agile practices. Proven experience in Manual, API, UI, and Mobile with hands-on exposure to cloud-based application testing using AWS services such as S3, IAM, API Gateway, Lambda, and DynamoDB.</p>
-
+<p align="justify">I'm a QA Engineer passionate about building high-quality software and exploring the future of AI-powered quality engineering.</p>
+<p align="justify">Currently I'm building</p>
 🚀<b>Specialization:</b> Manual, API, Mobile & Cloud-Based Testing (AWS)
 
 🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing
