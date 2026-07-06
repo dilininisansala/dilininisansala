@@ -5,6 +5,8 @@
 <p align="justify">Currently I'm building</p>
 <p align="justify">🚀 QA Launchpad</p>
 <p align="justify">🧠 Solo Founder AI OS</p>
+<p align="justify">🧪 AI Testing Portfolio</p>
+<br>
 <p align="justify">While documenting my learning journey through GitHub, LinkedIn and YouTube.</p>
 <p align="justify">My mission is to help startups deliver reliable software while building practical resources for QA Engineers entering the AI era.</p>
 
