@@ -2,7 +2,7 @@
 
 <h3 align="left">💫 About Me: </h3>
 <p align="justify">I'm a QA Engineer passionate about building high-quality software and exploring the future of AI-powered quality engineering.</p>
-<p align="justify"><b>Currently I'm building</b>b></p>
+<p align="justify"><b>Currently I'm building</b></p>
 <p align="justify">🚀 QA Launchpad</p>
 <p align="justify">🧠 Solo Founder AI OS</p>
 <p align="justify">🧪 AI Testing Portfolio</p>
