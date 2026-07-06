@@ -10,9 +10,9 @@
 <p align="justify">While documenting my learning journey through GitHub, LinkedIn and YouTube.</p>
 <p align="justify">My mission is to help startups deliver reliable software while building practical resources for QA Engineers entering the AI era.</p>
 <br>
-🚀<b>Specialization:</b> Manual, API, Mobile & Cloud-Based Testing (AWS)
+🚀<b>Specialization:</b> Manual Testing, API Testing, Mobile & Cloud-Based Testing (AWS)
 
-🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing
+🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing, AI Testing, Prompt Evaluation, Developer Productivity, Open Source
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennasmithtest-cell&label=Profile%20views&color=0e75b6&style=flat" alt="jennasmithtest-cell" /> </p>
 
