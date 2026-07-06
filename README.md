@@ -1,7 +1,9 @@
 ![Header](./banner.png)
 
 <h3 align="left">💫 About Me: </h3>
-<p align="justify">I'm a QA Engineer passionate about building high-quality software and exploring the future of AI-powered quality engineering.</p>
+<p align="justify">I'm a QA Engineer passionate about building high-quality software and exploring the future of AI-powered quality engineering. I document my learning journey through GitHub, LinkedIn, and YouTube while continuously expanding my skills in software testing, automation, and AI.</p>
+<p align="justify">My mission is to help startups deliver reliable software while building practical resources for QA Engineers entering the AI era.</p>
+
 🚀<b>Specialization:</b> Manual Testing, API Testing, Mobile & Cloud-Based Testing (AWS)
 
 🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing, Prompt Evaluation, Open Source
@@ -14,8 +16,6 @@
 <p align="justify">📺 QA Launchpad YouTube</p>
 <p align="justify">✍️ Technical Content on LinkedIn</p>
 
-<p align="justify">While documenting my learning journey through GitHub, LinkedIn and YouTube.</p>
-<p align="justify">My mission is to help startups deliver reliable software while building practical resources for QA Engineers entering the AI era.</p>
 <br>
 <h3 align="left">🌱 Currently Learning</h3>
 <p align="justify">AI Agent Systems</p>
