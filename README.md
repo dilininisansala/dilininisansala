@@ -1,7 +1,7 @@
 ![Header](./banner.png)
 
 <h3 align="left">💫 About Me: </h3>
-<p align="justify">I'm a QA Engineer passionate about building high-quality software and exploring the future of AI-powered quality engineering. I document my learning journey through GitHub, LinkedIn, and YouTube while continuously expanding my skills in software testing, automation, and AI.</p>
+<p align="justify">I'm a QA Engineer passionate about building high-quality software and exploring the future of AI-powered quality engineering. Currently building QA Launchpad and Solo Founder AI OS while documenting my journey through GitHub, LinkedIn, and YouTube.</p>
 <p align="justify">I'm currently building hands-on QA projects, exploring AI testing, and sharing practical resources to help others learn and grow in the evolving world of quality engineering.</p>
 
 🚀<b>Specialization:</b> Manual Testing, API Testing, Mobile & Cloud-Based Testing (AWS)
