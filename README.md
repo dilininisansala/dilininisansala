@@ -6,7 +6,7 @@
 
 🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing, Prompt Evaluation, Open Source
 <br>
-
+<br>
 <h3 align="left">🚀 Currently Building </h3>
 <p align="justify">🏢 QA Launchpad</p>
 <p align="justify">🧠 Solo Founder AI OS</p>
@@ -17,7 +17,6 @@
 <p align="justify">While documenting my learning journey through GitHub, LinkedIn and YouTube.</p>
 <p align="justify">My mission is to help startups deliver reliable software while building practical resources for QA Engineers entering the AI era.</p>
 <br>
-
 <h3 align="left">🌱 Currently Learning</h3>
 <p align="justify">AI Agent Systems</p>
 <p align="justify">Prompt Evaluation</p>
