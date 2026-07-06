@@ -2,10 +2,13 @@
 
 <h3 align="left">💫 About Me: </h3>
 <p align="justify">I'm a QA Engineer passionate about building high-quality software and exploring the future of AI-powered quality engineering.</p>
-<p align="justify"><b>Currently I'm building</b></p>
-<p align="justify">🚀 QA Launchpad</p>
+
+<h3 align="left">🚀 Currently Building </h3>
+<p align="justify">🏢 QA Launchpad</p>
 <p align="justify">🧠 Solo Founder AI OS</p>
 <p align="justify">🧪 AI Testing Portfolio</p>
+<p align="justify">📺 QA Launchpad YouTube</p>
+<p align="justify">✍️ Technical Content on LinkedIn</p>
 <br>
 <p align="justify">While documenting my learning journey through GitHub, LinkedIn and YouTube.</p>
 <p align="justify">My mission is to help startups deliver reliable software while building practical resources for QA Engineers entering the AI era.</p>
@@ -22,6 +25,7 @@
 <a href="https://www.linkedin.com/in/dilini-nisansala-seniorqa/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="30" width="30"/></a>
 </p>
 <br>
+
 <h3 align="left">⚡ Tech Stack </h3>
 <table>
   <tr>
