@@ -27,6 +27,7 @@
 <h3 align="left"> 🤖 Featured AI Testing Project </h3>
 <h4 align="left"> AI Customer Support Assistant Testing</h4>
 An end-to-end AI Quality Engineering project demonstrating how conversational AI applications can be validated using structured QA methodologies.<br>
+<br>
 <b>Highlights</b><br>
 ✅ Functional Testing<br>
 ✅ Edge Case Testing<br>
