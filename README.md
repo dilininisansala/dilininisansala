@@ -25,11 +25,12 @@
 <p align="justify">Business Strategy</p>
 <br>
 
-<h3 align="left"> 🤖 Featured AI Testing Project </h3>
-<h4 align="left"> AI Customer Support Assistant Testing</h4>
+<h4 align="left"> 🤖 Featured AI Testing Project </h4>
+<h5 align="left"> AI Customer Support Assistant Testing</h5>
 An end-to-end AI Quality Engineering project demonstrating how conversational AI applications can be validated using structured QA methodologies.
 🔗 <b>Repository</b>
 https://github.com/dilininisansala/AI-Customer-Support-Assistant-Testing
+<br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennasmithtest-cell&label=Profile%20views&color=0e75b6&style=flat" alt="jennasmithtest-cell" /> </p>
 
