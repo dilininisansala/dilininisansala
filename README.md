@@ -25,7 +25,7 @@
 <p align="justify">Business Strategy</p>
 <br>
 <h3 align="left"> 🤖 Featured AI Testing Project </h3>
-<h5 align="left"> AI Customer Support Assistant Testing</h5>
+<h4 align="left"> AI Customer Support Assistant Testing</h4>
 An end-to-end AI Quality Engineering project demonstrating how conversational AI applications can be validated using structured QA methodologies.
 <br>
 🔗 <b>Repository</b> https://github.com/dilininisansala/AI-Customer-Support-Assistant-Testing
