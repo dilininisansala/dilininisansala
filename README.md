@@ -27,11 +27,11 @@
 <h3 align="left"> 🤖 Featured AI Testing Project </h3>
 <h4 align="left"> AI Customer Support Assistant Testing</h4>
 An end-to-end AI Quality Engineering project demonstrating how conversational AI applications can be validated using structured QA methodologies.
-<b>Highlights</b>
-✅ Functional Testing
-✅ Edge Case Testing
-✅ Invalid Input Testing
-✅ Multi-turn Conversation Testing
+<b>Highlights</b><br>
+✅ Functional Testing<br>
+✅ Edge Case Testing<br>
+✅ Invalid Input Testing<br>
+✅ Multi-turn Conversation Testing<br>
 ✅ AI Safety Testing (Prompt Injection, Jailbreaks, SQL Injection, XSS, Role Manipulation)
 <br>
 🔗 <b>Repository</b> https://github.com/dilininisansala/AI-Customer-Support-Assistant-Testing
