@@ -23,13 +23,12 @@
 <p align="justify">Response Evaluation</p>
 <p align="justify">LLM Testing</p>
 <p align="justify">Business Strategy</p>
-<br>
 
 <h4 align="left"> 🤖 Featured AI Testing Project </h4>
 <h5 align="left"> AI Customer Support Assistant Testing</h5>
 An end-to-end AI Quality Engineering project demonstrating how conversational AI applications can be validated using structured QA methodologies.
-🔗 <b>Repository</b>
-https://github.com/dilininisansala/AI-Customer-Support-Assistant-Testing
+<br>
+🔗 <b>Repository</b> https://github.com/dilininisansala/AI-Customer-Support-Assistant-Testing
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennasmithtest-cell&label=Profile%20views&color=0e75b6&style=flat" alt="jennasmithtest-cell" /> </p>
