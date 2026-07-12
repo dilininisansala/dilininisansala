@@ -26,6 +26,13 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennasmithtest-cell&label=Profile%20views&color=0e75b6&style=flat" alt="jennasmithtest-cell" /> </p>
 
+<h3 align="left"> 🤖 Featured AI Testing Project </h3>
+### AI Customer Support Assistant Testing
+An end-to-end AI Quality Engineering project demonstrating how conversational AI applications can be validated using structured QA methodologies.
+🔗 **Repository**
+https://github.com/dilininisansala/AI-Customer-Support-Assistant-Testing
+
+
 <h3 align="left"> 🔗Connect With Me: 
 <p align="left">
   
