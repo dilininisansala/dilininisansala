@@ -25,8 +25,8 @@
 <p align="justify">Business Strategy</p>
 <br>
 <h3 align="left">📝 Technical Articles</h3>
-**Debugging the Gemini API in Postman**
-- Read on Medium:
+<b>Debugging the Gemini API in Postman<b><br>
+Read on Medium:
 <p align="justify">https://medium.com/@dilininisansala/debugging-the-gemini-api-in-postman-fixing-a-404-error-and-validating-a-successful-200-ok-response-590b6afa64cf?sharedUserId=dilininisansala"</p>
 <br>
 <h3 align="left"> 🤖 Featured AI Testing Project </h3>
