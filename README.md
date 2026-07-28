@@ -24,6 +24,9 @@
 <p align="justify">LLM Testing</p>
 <p align="justify">Business Strategy</p>
 <br>
+<h3 align="left">🌱 Technical Articles</h3>
+<a href="https://medium.com/@dilininisansala/debugging-the-gemini-api-in-postman-fixing-a-404-error-and-validating-a-successful-200-ok-response-590b6afa64cf?sharedUserId=dilininisansala"></a>
+<br>
 <h3 align="left"> 🤖 Featured AI Testing Project </h3>
 <h4 align="left"> AI Customer Support Assistant Testing</h4>
 An end-to-end AI Quality Engineering project demonstrating how conversational AI applications can be validated using structured QA methodologies.<br>
