@@ -10,8 +10,8 @@
 <br>
 <br>
 <h3 align="left">🚀 Currently Building </h3>
-<p align="justify">🏢 QA Launchpad Academy</p>
-<p align="justify">💼 LaunchDesk</p>
+<p align="justify">🏢 QA Launchpad Academy — AI Quality Engineering learning platform</p>
+<p align="justify">💼 LaunchDesk — AI Operating System for Quality Engineers</p>
 <p align="justify">📺 QA Launchpad YouTube</p>
 <p align="justify">✍️ Technical Content on LinkedIn</p>
 
