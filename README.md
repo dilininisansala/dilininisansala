@@ -4,14 +4,14 @@
 <p align="justify">I'm a QA Engineer passionate about delivering high-quality software and exploring the future of AI-powered quality engineering.</p>
 <p align="justify">Currently building <b>QA Launchpad Academy</b> and <b>LaunchDesk</b> while sharing my learning journey through GitHub, LinkedIn, and YouTube. My goal is to create practical resources, real-world QA projects, and AI testing case studies that help engineers and startups build better software.</p>
 <br>
-🚀<b>Specialization:</b> Manual Testing, API Testing, Mobile & Cloud-Based Testing (AWS)
+🧩<b>Specialization:</b> Manual Testing, API Testing, Mobile & Cloud-Based Testing (AWS)
 
-🚀<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing, Prompt Evaluation, Open Source
+🧩<b>Interests:</b> Test Automation, AI-Assisted Testing, Performance Testing, Prompt Evaluation, Open Source
 <br>
 <br>
 <h3 align="left">🚀 Currently Building </h3>
 <p align="justify">🏢 QA Launchpad Academy</p>
-<p align="justify">🧠 LaunchDesk</p>
+<p align="justify">💼 LaunchDesk</p>
 <p align="justify">📺 QA Launchpad YouTube</p>
 <p align="justify">✍️ Technical Content on LinkedIn</p>
 
