@@ -12,7 +12,6 @@
 <h3 align="left">🚀 Currently Building </h3>
 <p align="justify">🏢 QA Launchpad Academy</p>
 <p align="justify">🧠 LaunchDesk</p>
-<p align="justify">🧪 AI Testing Portfolio</p>
 <p align="justify">📺 QA Launchpad YouTube</p>
 <p align="justify">✍️ Technical Content on LinkedIn</p>
 
