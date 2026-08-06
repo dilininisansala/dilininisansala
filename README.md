@@ -10,7 +10,7 @@
 <br>
 <br>
 <h3 align="left">🚀 Currently Building </h3>
-<p align="justify">🏢 QA Launchpad</p>
+<p align="justify">🏢 QA Launchpad Academy</p>
 <p align="justify">🧠 Solo Founder AI OS</p>
 <p align="justify">🧪 AI Testing Portfolio</p>
 <p align="justify">📺 QA Launchpad YouTube</p>
