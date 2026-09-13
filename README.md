@@ -2,7 +2,7 @@
 
 <h3 align="left">💫 About Me: </h3>
 <p align="justify">I'm a QA Engineer passionate about delivering high-quality software and exploring the future of AI-powered quality engineering.</p>
-<p align="justify">Currently building <b>QA Launchpad Labs</b> and <b>TestSpark</b> while sharing my learning journey through GitHub, LinkedIn, and YouTube. My goal is to create practical resources, real-world QA projects, and AI testing case studies that help engineers and startups build better software.</p>
+<p align="justify">Currently building <b>QA Launchpad Labs</b> and <b>TestSpark</b> while sharing my learning journey through GitHub, LinkedIn, Medium, and YouTube. My goal is to create practical resources, real-world QA projects, and AI testing case studies that help engineers and startups build better software.</p>
 <br>
 🧩<b>Specialization:</b> Manual Testing, API Testing, Mobile & Cloud-Based Testing (AWS)
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <h3 align="left">🚀 Currently Building </h3>
-<p align="justify">⚡ TestSpark — Native Android app for learning AI Testing</p>
+<p align="justify">📱 TestSpark — Native Android app for learning AI Testing</p>
 <p align="justify">💼 LaunchDesk — AI Operating System for Quality Engineers</p>
 <p align="justify">📺 QA Launchpad Labs YouTube — Tutorials & QA content</p>
 <p align="justify">✍️ Technical Content on LinkedIn</p>
