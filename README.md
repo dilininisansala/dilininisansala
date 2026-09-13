@@ -12,7 +12,7 @@
 <h3 align="left">🚀 Currently Building </h3>
 <p align="justify">📱 TestSpark — Native Android app for learning AI Testing</p>
 <p align="justify">📺 QA Launchpad Labs YouTube — Tutorials & QA content</p>
-<p align="justify">✍️ Technical Content on LinkedIn</p>
+<p align="justify">✍️ Technical Content on LinkedIn, Medium</p>
 
 <br>
 <h3 align="left">🌱 Currently Learning</h3>
